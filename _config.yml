@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Data Mogul"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "FREE E-LEARNING WEBSITE. Best curated content from YouTube."
+  bio              : "FREE E-LEARNING WEBSITE. <br> Best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers."
   location         : "India"
   email            :
   links:
