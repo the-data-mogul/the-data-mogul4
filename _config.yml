@@ -21,7 +21,7 @@ title                    : "The Data Mogul | E-Learning Web"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Data Mogul"
-description              : "FREE E-LEARNING WEBSITE. Best curated content from YouTube."
+description              : "FREE E-LEARNING WEBSITE. <br> Best curated content from YouTube."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
